@@ -16,7 +16,7 @@
  * @author Tom Lienard - QuiiBz
  */
 
-const isAPangrams  = require('./e02');
+const isAPangrams = require('./e02');
 
 // Test the algorithm
 console.log(isAPangrams('The quick brown fox jumps over the lazy dog'));
