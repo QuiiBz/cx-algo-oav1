@@ -29,7 +29,7 @@ const howManyCamelCase = (str) => {
  * Check if the given char is uppercase or not.
  *
  * @param char - The char to check
- * @returns True if tje given char is uppercase
+ * @returns True if the given char is uppercase
  */
 const isCharUppercase = (char) => {
 
